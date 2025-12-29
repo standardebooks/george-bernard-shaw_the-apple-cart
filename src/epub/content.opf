@@ -44,7 +44,8 @@
 		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">An English king challenges his popular prime minister and cabinet.</dc:description>		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:description id="description">An English king challenges his popular prime minister and cabinet.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
