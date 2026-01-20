@@ -50,7 +50,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.net.au/ebooks03/0300431h.html</dc:source>
 		<dc:source>https://archive.org/details/dli.ernet.504120</dc:source>
-		<meta property="se:word-count">35992</meta>
+		<meta property="se:word-count">35596</meta>
 		<meta property="se:reading-ease.flesch">66.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Apple_Cart</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_the-apple-cart</meta>
